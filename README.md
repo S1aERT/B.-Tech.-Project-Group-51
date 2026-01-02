@@ -72,20 +72,8 @@ Evaluated on synthetic test data using:
 
 Results demonstrate accurate segmentation and promising classification performance, validating the potential of AI-based retinal analysis as a rapid and affordable screening tool for early Alzheimer’s detection.
 
----
-
-## Contributors  
-
-- **Sarthak Sahu**: Designed and connected the overall system, cleaned data, and improved the model  
-- **Sonu Garg**: Built the U-Net deep learning model for segmentation  
-- **Sujay S. Sakhare**: Handled datasets and tested model accuracy  
-- **Zaid Nasim**: Developed Transformer models and performed feature engineering  
-
+--- 
 **Institution**: Symbiosis Institute of Technology, Pune  
 **Academic Year**: 2025–2026  
-**Guide**: Prof. Usha Jogalekar  
-**Co-Guide**: Dr. Sashikala Mishra  
-
----  
 
 *This project aligns with UN Sustainable Development Goals (SDGs) 3 (Good Health), 9 (Innovation), and 10 (Reduced Inequalities) by promoting accessible, non-invasive, and intelligent healthcare solutions.*
